@@ -1,3 +1,18 @@
+"==============================================
+"
+"      ██╗   ██╗██╗███╗   ███╗██████╗  ██████╗
+"      ██║   ██║██║████╗ ████║██╔══██╗██╔════╝
+"      ██║   ██║██║██╔████╔██║██████╔╝██║     
+"      ╚██╗ ██╔╝██║██║╚██╔╝██║██╔══██╗██║     
+"    ██╗╚████╔╝ ██║██║ ╚═╝ ██║██║  ██║╚██████╗
+"    ╚═╝ ╚═══╝  ╚═╝╚═╝     ╚═╝╚═╝  ╚═╝ ╚═════╝
+"
+"==============================================
+
+" Author: Joel Miarons
+" Github: joelmoff
+
+
 " seetings for Vundle
 
 set nocompatible
@@ -30,7 +45,7 @@ colorscheme default
 
 " number lines
 
-set number
+set rnu
 
 " use spaces instead of tab
 
@@ -60,7 +75,7 @@ set showmatch
 " searching options
 
 set incsearch
-set hlsearch
+set nohlsearch
 
 " code folding
 
