@@ -17,6 +17,7 @@
 
 #Now it's time to install our plugin manager. In this case i'll be using vundle
 
+mkdir -p ~/.vim/bundle
 git clone https://github.com/VundleVim/Vundle.vim.git ~/.vim/bundle/Vundle.vim
 
 #Now it's time to copy our .vimrc to it's directory
