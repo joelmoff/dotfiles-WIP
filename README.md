@@ -1,4 +1,4 @@
-i[![HitCount](http://hits.dwyl.io/joelmoff/dotfiles.svg)](http://hits.dwyl.io/joelmoff/dotfiles)
+[![HitCount](http://hits.dwyl.io/joelmoff/dotfiles.svg)](http://hits.dwyl.io/joelmoff/dotfiles)
 [![GitHub stars](https://img.shields.io/github/stars/joelmoff/dotfiles.svg)](https://GitHub.com/joelmoff/dotfiles/stargazers/)
 [![GitHub forks](https://img.shields.io/github/forks/joelmoff/dotfile.svg)](https://GitHub.com/joelmoff/dotfiles/network/)
 [![GitHub repo size in bytes](https://img.shields.io/github/repo-size/joelmoff/dotfiles.svg)](https://github.com/joelmoff/dotfiles)
