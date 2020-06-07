@@ -32,6 +32,8 @@ Plugin 'vim-airline/vim-airline'
 Plugin 'vim-airline/vim-airline-themes'
 Plugin 'vimwiki/vimwiki'
 Plugin 'ap/vim-css-color'
+Plugin 'tpope/vim-commentary'
+Plugin 'vbe0201/vimdiscord'
 
 " end of plugin list
 
@@ -82,6 +84,12 @@ set nohlsearch
 set foldenable
 set foldlevelstart=10
 set foldmethod=indent
+
+" vimwiki
+
+filetype plugin on
+let g:vimwiki_list = [{'path': '~/vimwiki/',
+                      \ 'syntax': 'markdown', 'ext': '.md'}]
 
 " air-line
 

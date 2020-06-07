@@ -1,17 +1,3 @@
-#========================================================================
-#
-#      ███████╗███████╗██╗  ██╗██████╗  ██████╗
-#      ╚══███╔╝██╔════╝██║  ██║██╔══██╗██╔════╝
-#        ███╔╝ ███████╗███████║██████╔╝██║     
-#       ███╔╝  ╚════██║██╔══██║██╔══██╗██║     
-#   ██╗███████╗███████║██║  ██║██║  ██║╚██████╗
-#   ╚═╝╚══════╝╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝
-#   
-#========================================================================
-
-# Author : Joel Miarons
-# Github : joelmoff
-
 # If you come from bash you might have to change your $PATH.
 # export PATH=$HOME/bin:/usr/local/bin:$PATH
 
@@ -123,7 +109,8 @@ alias c="clear"
 alias la="ls -la"
 alias ll="ls l"
 alias :q="exit"
-alias python="/usr/bin/python3.7"
+alias logout="kill -kill -1"
+eval $(thefuck --alias)
 
 neofetch 
 
